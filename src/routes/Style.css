@@ -1,0 +1,14 @@
+.topside{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    
+}
+.bottomside{
+    display: flex;
+    flex-wrap: wrap; 
+    margin-left: 0px;
+}
+.card{
+justify-content: space-between;
+}
